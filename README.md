@@ -63,3 +63,41 @@ Ecommerce Sales Analysis.xlsx - Data
 
 ![image](https://github.com/PRATHAMESH9743/ECOMMERCE-SALES-ANALYSIS-/assets/154798147/f25223b5-8985-48f1-be35-5771e2a662f5)
 
+##  Sales and Profit Analysis
+
+![image](https://github.com/PRATHAMESH9743/ECOMMERCE-SALES-ANALYSIS-/assets/154798147/9aa033e4-f5f7-4446-82b9-901634b6bee2)
+
+## Category Wise Profit
+
+![image](https://github.com/PRATHAMESH9743/ECOMMERCE-SALES-ANALYSIS-/assets/154798147/91a8282a-7942-4234-9c48-0cbdb1c99f46)
+
+## Category Wise Sales Share %
+
+![image](https://github.com/PRATHAMESH9743/ECOMMERCE-SALES-ANALYSIS-/assets/154798147/d7fdc104-0935-4752-bcba-67b16a8d545a)
+
+
+## Sales by State
+
+![image](https://github.com/PRATHAMESH9743/ECOMMERCE-SALES-ANALYSIS-/assets/154798147/db60daae-ef87-47f0-8572-4c9c60ba7f1f)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
