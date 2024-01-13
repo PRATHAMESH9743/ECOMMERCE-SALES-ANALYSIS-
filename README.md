@@ -44,7 +44,9 @@ Ecommerce Sales Analysis.xlsx - Data
 ## KPI'S
 
 ## Total sales
-![image](https://github.com/PRATHAMESH9743/ECOMMERCE-SALES-ANALYSIS-/assets/154798147/163cb6d1-22d0-4b3f-9d1a-cac16ae5fd59)
+![image](https://github.com/PRATHAMESH9743/ECOMMERCE-SALES-ANALYSIS-/assets/154798147/141bd0f9-26a6-4019-b96e-59bd20b07c7f)
+
+![image](https://github.com/PRATHAMESH9743/ECOMMERCE-SALES-ANALYSIS-/assets/154798147/c102e2e3-9cdb-45f5-86aa-579fb0cd3edb)
 
 ## Total Profit
 
@@ -92,6 +94,8 @@ Ecommerce Sales Analysis.xlsx - Data
 ![image](https://github.com/PRATHAMESH9743/ECOMMERCE-SALES-ANALYSIS-/assets/154798147/41f4fb60-e79a-4a30-90d5-315f3a847e2a)
 
 
+## COMPLETE DASHBOARD
+![image](https://github.com/PRATHAMESH9743/ECOMMERCE-SALES-ANALYSIS-/assets/154798147/23739866-f8e8-4bb9-b59e-522e554f890e)
 
 
 
