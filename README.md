@@ -41,17 +41,25 @@ Microsoft Excel (Version 2021)
 ## Data source:
 Ecommerce Sales Analysis.xlsx - Data 
 
-## Dashboard creation
-Total sales
+## KPI'S
+
+## Total sales
 ![image](https://github.com/PRATHAMESH9743/ECOMMERCE-SALES-ANALYSIS-/assets/154798147/163cb6d1-22d0-4b3f-9d1a-cac16ae5fd59)
 
-Total Profit
+## Total Profit
 
 ![image](https://github.com/PRATHAMESH9743/ECOMMERCE-SALES-ANALYSIS-/assets/154798147/8d5b4b9c-67e0-4df0-a583-bdd1e38e5ff4)
 
  
-Total Quantity
+## Total Quantity
 
 ![image](https://github.com/PRATHAMESH9743/ECOMMERCE-SALES-ANALYSIS-/assets/154798147/d30ad8e1-3769-4f88-9404-f3016657ee05)
 
+ ## Profit Margin
+
+ ![image](https://github.com/PRATHAMESH9743/ECOMMERCE-SALES-ANALYSIS-/assets/154798147/48860271-2ab5-40e9-9d68-c97b788f7b89)
+
+## Number of Orders
+
+![image](https://github.com/PRATHAMESH9743/ECOMMERCE-SALES-ANALYSIS-/assets/154798147/f25223b5-8985-48f1-be35-5771e2a662f5)
 
