@@ -65,11 +65,12 @@ Ecommerce Sales Analysis.xlsx - Data
 
 ##  Sales and Profit Analysis
 
-![image](https://github.com/PRATHAMESH9743/ECOMMERCE-SALES-ANALYSIS-/assets/154798147/9aa033e4-f5f7-4446-82b9-901634b6bee2)
+![image](https://github.com/PRATHAMESH9743/ECOMMERCE-SALES-ANALYSIS-/assets/154798147/5f2326ac-3b91-427b-9403-68ff3c22e1b1)
+
 
 ## Category Wise Profit
 
-![image](https://github.com/PRATHAMESH9743/ECOMMERCE-SALES-ANALYSIS-/assets/154798147/91a8282a-7942-4234-9c48-0cbdb1c99f46)
+![image](https://github.com/PRATHAMESH9743/ECOMMERCE-SALES-ANALYSIS-/assets/154798147/6afab2d5-0e53-4152-bd09-9a56dd235ac0)
 
 ## Category Wise Sales Share %
 
@@ -81,10 +82,14 @@ Ecommerce Sales Analysis.xlsx - Data
 ![image](https://github.com/PRATHAMESH9743/ECOMMERCE-SALES-ANALYSIS-/assets/154798147/db60daae-ef87-47f0-8572-4c9c60ba7f1f)
 
 
+## Top 5 Sub-Categories
+
+![image](https://github.com/PRATHAMESH9743/ECOMMERCE-SALES-ANALYSIS-/assets/154798147/f4c1a31a-85f8-4237-a41e-4973b4371f6f)
 
 
+## KPI'S SPARKLINE CREATION
 
-
+![image](https://github.com/PRATHAMESH9743/ECOMMERCE-SALES-ANALYSIS-/assets/154798147/41f4fb60-e79a-4a30-90d5-315f3a847e2a)
 
 
 
