@@ -105,7 +105,12 @@ Ecommerce Sales Analysis.xlsx - Data
 ## COMPLETE DASHBOARD
 ![image](https://github.com/PRATHAMESH9743/ECOMMERCE-SALES-ANALYSIS-/assets/154798147/23739866-f8e8-4bb9-b59e-522e554f890e)
 
-
+## FINDINGS
+1. The Total sales for the ecommerce sales amounted to $2,297,200.86.
+2. The Total profit generated from the ecommerce sales was $286,397.02.
+3. The Total quantity of items sold during the ecommerce sales was 37,873.
+4. The Profit margin for the ecommerce sales was 12%.
+5. The Ecommerce sales recorded a total of 9,994 orders.
 
 
 
