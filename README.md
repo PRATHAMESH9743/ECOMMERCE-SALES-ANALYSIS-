@@ -52,18 +52,26 @@ Ecommerce Sales Analysis.xlsx - Data
 
 ![image](https://github.com/PRATHAMESH9743/ECOMMERCE-SALES-ANALYSIS-/assets/154798147/8d5b4b9c-67e0-4df0-a583-bdd1e38e5ff4)
 
+![image](https://github.com/PRATHAMESH9743/ECOMMERCE-SALES-ANALYSIS-/assets/154798147/04feb565-9d14-4484-b915-f85879f023d7)
+
  
 ## Total Quantity
 
 ![image](https://github.com/PRATHAMESH9743/ECOMMERCE-SALES-ANALYSIS-/assets/154798147/d30ad8e1-3769-4f88-9404-f3016657ee05)
 
+![image](https://github.com/PRATHAMESH9743/ECOMMERCE-SALES-ANALYSIS-/assets/154798147/7c92c234-e52f-49f5-a408-0e227686735f)
+
  ## Profit Margin
 
  ![image](https://github.com/PRATHAMESH9743/ECOMMERCE-SALES-ANALYSIS-/assets/154798147/48860271-2ab5-40e9-9d68-c97b788f7b89)
 
+![image](https://github.com/PRATHAMESH9743/ECOMMERCE-SALES-ANALYSIS-/assets/154798147/af823d23-be3d-448e-a130-668be3c69bc9)
+
 ## Number of Orders
 
 ![image](https://github.com/PRATHAMESH9743/ECOMMERCE-SALES-ANALYSIS-/assets/154798147/f25223b5-8985-48f1-be35-5771e2a662f5)
+
+![image](https://github.com/PRATHAMESH9743/ECOMMERCE-SALES-ANALYSIS-/assets/154798147/3aa839e4-b650-4043-9af7-d0ebeefeaadf)
 
 ##  Sales and Profit Analysis
 
