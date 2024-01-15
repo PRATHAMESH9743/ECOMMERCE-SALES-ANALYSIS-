@@ -32,6 +32,7 @@ This Excel-based E-commerce Sales Analysis project is designed to empower busine
 
 10. Top 5 Sub-Categories:
     - Identifying the top 5 sub-categories involves analyzing sales data to determine the most popular and profitable sub-categories, guiding inventory management, marketing efforts, and product development for sustained success.
+   
 
    These problem statements provide a foundation for addressing specific challenges related to total sales, total profit, total quantity, profit margin, number of 
    orders, sales and profit analysis, category-wise profit, category-wise sales share, sales by state, and top sub-categories in the context of e-commerce sales 
