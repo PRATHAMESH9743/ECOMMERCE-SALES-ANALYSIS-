@@ -3,7 +3,7 @@ E-commerce sales involve the online buying and selling of goods or services, con
 This Excel-based E-commerce Sales Analysis project is designed to empower businesses in the online retail sector to gain valuable insights into their sales performance. By utilizing this spreadsheet, users can efficiently analyze and visualize key metrics related to total sales, profit, quantity, profit margin, number of orders, category-wise performance, sales distribution by state, and top-performing sub-categories.
 
 ## PROBLEM STATEMENT
-1. **Total Sales:**
+1. Total Sales:
    - The challenge is to optimize and increase total sales by identifying factors affecting sales performance, such as product popularity, marketing strategies, and customer engagement, to drive overall revenue growth.
 
 2. Total Profit:
