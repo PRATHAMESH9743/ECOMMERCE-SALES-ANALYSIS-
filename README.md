@@ -1,4 +1,4 @@
-# ECOMMERCE SALES ANALYSIS EXCEL 2023
+# Ecommerce Sales Analysis Excel 
 E-commerce sales involve the online buying and selling of goods or services, conducted through electronic platforms, providing businesses and consumers a convenient and accessible marketplace.
 This Excel-based E-commerce Sales Analysis project is designed to empower businesses in the online retail sector to gain valuable insights into their sales performance. By utilizing this spreadsheet, users can efficiently analyze and visualize key metrics related to total sales, profit, quantity, profit margin, number of orders, category-wise performance, sales distribution by state, and top-performing sub-categories.
 
